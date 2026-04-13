@@ -134,7 +134,7 @@ This script loads the selected model for each task and generates a prediction ma
 
 ## 📚 Citation
 
-If you use this repository, please cite the associated HMPA manuscript and acknowledge the original data and code source in derivative work.
+Comprehensive annotation and analysis of human microproteins by human microprotein atlas platform
 
 ## 📬 Contact
 
