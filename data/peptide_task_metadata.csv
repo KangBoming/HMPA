@@ -1,0 +1,214 @@
+category,path,labeled,predicted,class
+Therapeutic,/Therapeutic,57750.0,837036.0,Therapeutic
+Antimicrobial,/Therapeutic/Antimicrobial,40853.0,694090.0,Therapeutic
+Antibacterial,/Therapeutic/Antimicrobial/Antibacterial,24377.0,8290.0,Therapeutic
+Anti gram (+),/Therapeutic/Antimicrobial/Antibacterial/Anti gram (+),18734.0,549161.0,Therapeutic
+Anti methicillin-resistant s. aureus,/Therapeutic/Antimicrobial/Antibacterial/Anti gram (+)/Anti methicillin-resistant s. aureus,395.0,435885.0,Therapeutic
+Anti gram (-),/Therapeutic/Antimicrobial/Antibacterial/Anti gram (-),15453.0,326400.0,Therapeutic
+Anti biofilm,/Therapeutic/Antimicrobial/Antibacterial/Anti biofilm,505.0,66.0,Therapeutic
+Anti tuberculosis,/Therapeutic/Antimicrobial/Antibacterial/Anti tuberculosis,357.0,717496.0,Therapeutic
+Anti mollicute,/Therapeutic/Antimicrobial/Antibacterial/Anti mollicute,39.0,0.0,Therapeutic
+Bacteriocin,/Therapeutic/Antimicrobial/Antibacterial/Bacteriocin,2.0,0.0,Therapeutic
+Anti fungal,/Therapeutic/Antimicrobial/Anti fungal,11772.0,23981.0,Therapeutic
+Anti candida,/Therapeutic/Antimicrobial/Anti fungal/Anti candida,758.0,312.0,Therapeutic
+Antiparasitic,/Therapeutic/Antimicrobial/Antiparasitic,6312.0,24217.0,Therapeutic
+Anti nematode,/Therapeutic/Antimicrobial/Antiparasitic/Anti nematode,118.0,71.0,Therapeutic
+Antiviral,/Therapeutic/Antimicrobial/Antiviral,5899.0,1182108.0,Therapeutic
+Anti retroviridae,/Therapeutic/Antimicrobial/Antiviral/Anti retroviridae,1548.0,8759.0,Therapeutic
+Anti HIV,/Therapeutic/Antimicrobial/Antiviral/Anti retroviridae/Anti HIV,1405.0,3368.0,Therapeutic
+Anti feline immunodeficiency virus,/Therapeutic/Antimicrobial/Antiviral/Anti retroviridae/Anti feline immunodeficiency virus,124.0,10138.0,Therapeutic
+Anti simian immunodeficiency virus,/Therapeutic/Antimicrobial/Antiviral/Anti retroviridae/Anti simian immunodeficiency virus,19.0,0.0,Therapeutic
+Anti feline leukemia virus,/Therapeutic/Antimicrobial/Antiviral/Anti retroviridae/Anti feline leukemia virus,13.0,0.0,Therapeutic
+Anti human t-cell leukaemia virus 1,/Therapeutic/Antimicrobial/Antiviral/Anti retroviridae/Anti human t-cell leukaemia virus 1,7.0,0.0,Therapeutic
+Anti avian sarcoma and leukosis virus- a,/Therapeutic/Antimicrobial/Antiviral/Anti retroviridae/Anti avian sarcoma and leukosis virus- a,6.0,0.0,Therapeutic
+Anti human t-lymphotropic virus,/Therapeutic/Antimicrobial/Antiviral/Anti retroviridae/Anti human t-lymphotropic virus,5.0,0.0,Therapeutic
+Anti murine leukemia virus,/Therapeutic/Antimicrobial/Antiviral/Anti retroviridae/Anti murine leukemia virus,1.0,0.0,Therapeutic
+Anti avian myeloblastosis virus,/Therapeutic/Antimicrobial/Antiviral/Anti retroviridae/Anti avian myeloblastosis virus,1.0,0.0,Therapeutic
+Anti filoviridae,/Therapeutic/Antimicrobial/Antiviral/Anti filoviridae,690.0,5015.0,Therapeutic
+Anti hepatitis C virus,/Therapeutic/Antimicrobial/Antiviral/Anti filoviridae/Anti hepatitis C virus,491.0,4459.0,Therapeutic
+Anti dengue virus,/Therapeutic/Antimicrobial/Antiviral/Anti filoviridae/Anti dengue virus,74.0,159417.0,Therapeutic
+Anti hepatitis B virus,/Therapeutic/Antimicrobial/Antiviral/Anti filoviridae/Anti hepatitis B virus,57.0,551693.0,Therapeutic
+Anti west nile virus,/Therapeutic/Antimicrobial/Antiviral/Anti filoviridae/Anti west nile virus,45.0,0.0,Therapeutic
+Anti japanese encephalitis virus,/Therapeutic/Antimicrobial/Antiviral/Anti filoviridae/Anti japanese encephalitis virus,25.0,0.0,Therapeutic
+Anti ebola virus,/Therapeutic/Antimicrobial/Antiviral/Anti filoviridae/Anti ebola virus,16.0,0.0,Therapeutic
+Anti zika virus,/Therapeutic/Antimicrobial/Antiviral/Anti filoviridae/Anti zika virus,11.0,0.0,Therapeutic
+Anti mouse hepatitis virus,/Therapeutic/Antimicrobial/Antiviral/Anti filoviridae/Anti mouse hepatitis virus,10.0,0.0,Therapeutic
+Anti hepatitis E virus,/Therapeutic/Antimicrobial/Antiviral/Anti filoviridae/Anti hepatitis E virus,10.0,0.0,Therapeutic
+Anti tembusu virus,/Therapeutic/Antimicrobial/Antiviral/Anti filoviridae/Anti tembusu virus,2.0,0.0,Therapeutic
+Anti yellow fever virus,/Therapeutic/Antimicrobial/Antiviral/Anti filoviridae/Anti yellow fever virus,1.0,0.0,Therapeutic
+Anti flaviviridae,/Therapeutic/Antimicrobial/Antiviral/Anti flaviviridae,489.0,5013.0,Therapeutic
+Anti classical swine fever virus,/Therapeutic/Antimicrobial/Antiviral/Anti flaviviridae/Anti classical swine fever virus,12.0,0.0,Therapeutic
+Anti coronaviridae,/Therapeutic/Antimicrobial/Antiviral/Anti coronaviridae,426.0,54776.0,Therapeutic
+Anti SARS-COV 2,/Therapeutic/Antimicrobial/Antiviral/Anti coronaviridae/Anti SARS-COV 2,296.0,645809.0,Therapeutic
+Anti SARS-COV,/Therapeutic/Antimicrobial/Antiviral/Anti coronaviridae/Anti SARS-COV,130.0,12153.0,Therapeutic
+Anti coronavirus,/Therapeutic/Antimicrobial/Antiviral/Anti coronaviridae/Anti coronavirus,109.0,119086.0,Therapeutic
+Anti MERS-COV,/Therapeutic/Antimicrobial/Antiviral/Anti coronaviridae/Anti MERS-COV,49.0,0.0,Therapeutic
+Anti human coronavirus,/Therapeutic/Antimicrobial/Antiviral/Anti coronaviridae/Anti human coronavirus,21.0,0.0,Therapeutic
+Anti canine coronavirus,/Therapeutic/Antimicrobial/Antiviral/Anti coronaviridae/Anti canine coronavirus,9.0,0.0,Therapeutic
+Anti feline coronavirus,/Therapeutic/Antimicrobial/Antiviral/Anti coronaviridae/Anti feline coronavirus,3.0,0.0,Therapeutic
+Anti transmissible gastroenteritis virus,/Therapeutic/Antimicrobial/Antiviral/Anti coronaviridae/Anti transmissible gastroenteritis virus,3.0,0.0,Therapeutic
+Anti murine hepatitis virus,/Therapeutic/Antimicrobial/Antiviral/Anti coronaviridae/Anti murine hepatitis virus,2.0,0.0,Therapeutic
+Anti sl-cov-wiv1,/Therapeutic/Antimicrobial/Antiviral/Anti coronaviridae/Anti sl-cov-wiv1,1.0,0.0,Therapeutic
+Anti porcine respiratory coronavirus,/Therapeutic/Antimicrobial/Antiviral/Anti coronaviridae/Anti porcine respiratory coronavirus,1.0,0.0,Therapeutic
+Anti herpesviridae,/Therapeutic/Antimicrobial/Antiviral/Anti herpesviridae,388.0,199826.0,Therapeutic
+Anti herpes simplex virus,/Therapeutic/Antimicrobial/Antiviral/Anti herpesviridae/Anti herpes simplex virus,327.0,112884.0,Therapeutic
+Anti human cytomegalovirus,/Therapeutic/Antimicrobial/Antiviral/Anti herpesviridae/Anti human cytomegalovirus,45.0,0.0,Therapeutic
+Anti marek's disease virus,/Therapeutic/Antimicrobial/Antiviral/Anti herpesviridae/Anti marek's disease virus,10.0,0.0,Therapeutic
+Anti varicella zoster virus,/Therapeutic/Antimicrobial/Antiviral/Anti herpesviridae/Anti varicella zoster virus,3.0,0.0,Therapeutic
+Anti bovine herpesvirus type 1,/Therapeutic/Antimicrobial/Antiviral/Anti herpesviridae/Anti bovine herpesvirus type 1,1.0,0.0,Therapeutic
+Anti paramyxoviridae,/Therapeutic/Antimicrobial/Antiviral/Anti paramyxoviridae,344.0,479070.0,Therapeutic
+Anti respiratory syncytial virus,/Therapeutic/Antimicrobial/Antiviral/Anti paramyxoviridae/Anti respiratory syncytial virus,173.0,564520.0,Therapeutic
+Anti human parainfluenza virus,/Therapeutic/Antimicrobial/Antiviral/Anti paramyxoviridae/Anti human parainfluenza virus,99.0,9617.0,Therapeutic
+Anti measles virus,/Therapeutic/Antimicrobial/Antiviral/Anti paramyxoviridae/Anti measles virus,46.0,0.0,Therapeutic
+Anti newcastle disease virus,/Therapeutic/Antimicrobial/Antiviral/Anti paramyxoviridae/Anti newcastle disease virus,18.0,0.0,Therapeutic
+Anti hendra virus,/Therapeutic/Antimicrobial/Antiviral/Anti paramyxoviridae/Anti hendra virus,11.0,0.0,Therapeutic
+Anti human metapneumovirus,/Therapeutic/Antimicrobial/Antiviral/Anti paramyxoviridae/Anti human metapneumovirus,9.0,0.0,Therapeutic
+Anti sendai virus,/Therapeutic/Antimicrobial/Antiviral/Anti paramyxoviridae/Anti sendai virus,8.0,0.0,Therapeutic
+Anti metapneumovirus,/Therapeutic/Antimicrobial/Antiviral/Anti paramyxoviridae/Anti metapneumovirus,5.0,0.0,Therapeutic
+Anti nipah virus,/Therapeutic/Antimicrobial/Antiviral/Anti paramyxoviridae/Anti nipah virus,1.0,0.0,Therapeutic
+Anti orthomyxoviridae,/Therapeutic/Antimicrobial/Antiviral/Anti orthomyxoviridae,190.0,942738.0,Therapeutic
+Anti influenza virus,/Therapeutic/Antimicrobial/Antiviral/Anti orthomyxoviridae/Anti influenza virus,179.0,56622.0,Therapeutic
+Anti H1N1 virus,/Therapeutic/Antimicrobial/Antiviral/Anti orthomyxoviridae/Anti H1N1 virus,17.0,0.0,Therapeutic
+Anti H3N2 virus,/Therapeutic/Antimicrobial/Antiviral/Anti orthomyxoviridae/Anti H3N2 virus,8.0,0.0,Therapeutic
+Anti avian influenza virus,/Therapeutic/Antimicrobial/Antiviral/Anti orthomyxoviridae/Anti avian influenza virus,2.0,0.0,Therapeutic
+Anti H5N1 virus,/Therapeutic/Antimicrobial/Antiviral/Anti orthomyxoviridae/Anti H5N1 virus,1.0,0.0,Therapeutic
+Anti bunyaviridae,/Therapeutic/Antimicrobial/Antiviral/Anti bunyaviridae,126.0,81685.0,Therapeutic
+Anti sin nombre virus,/Therapeutic/Antimicrobial/Antiviral/Anti bunyaviridae/Anti sin nombre virus,126.0,3193.0,Therapeutic
+Anti hantaviridae,/Therapeutic/Antimicrobial/Antiviral/Anti hantaviridae,86.0,3845.0,Therapeutic
+Anti andes virus,/Therapeutic/Antimicrobial/Antiviral/Anti hantaviridae/Anti andes virus,85.0,1987.0,Therapeutic
+Anti puumala virus,/Therapeutic/Antimicrobial/Antiviral/Anti hantaviridae/Anti puumala virus,1.0,0.0,Therapeutic
+Anti poxviridae,/Therapeutic/Antimicrobial/Antiviral/Anti poxviridae,60.0,73.0,Therapeutic
+Anti vaccinia,/Therapeutic/Antimicrobial/Antiviral/Anti poxviridae/Anti vaccinia,60.0,49415.0,Therapeutic
+Anti cowpox virus,/Therapeutic/Antimicrobial/Antiviral/Anti poxviridae/Anti cowpox virus,1.0,0.0,Therapeutic
+Anti monkeypox virus,/Therapeutic/Antimicrobial/Antiviral/Anti poxviridae/Anti monkeypox virus,1.0,0.0,Therapeutic
+Anti picornaviridae,/Therapeutic/Antimicrobial/Antiviral/Anti picornaviridae,49.0,0.0,Therapeutic
+Anti coxsackie virus,/Therapeutic/Antimicrobial/Antiviral/Anti picornaviridae/Anti coxsackie virus,17.0,0.0,Therapeutic
+Anti encephalomyocarditis virus,/Therapeutic/Antimicrobial/Antiviral/Anti picornaviridae/Anti encephalomyocarditis virus,14.0,0.0,Therapeutic
+Anti enterovirus,/Therapeutic/Antimicrobial/Antiviral/Anti picornaviridae/Anti enterovirus,7.0,0.0,Therapeutic
+Anti duck hepatitis virus,/Therapeutic/Antimicrobial/Antiviral/Anti picornaviridae/Anti duck hepatitis virus,5.0,0.0,Therapeutic
+Anti foot-and-mouth disease virus,/Therapeutic/Antimicrobial/Antiviral/Anti picornaviridae/Anti foot-and-mouth disease virus,5.0,0.0,Therapeutic
+Anti rhinovirus,/Therapeutic/Antimicrobial/Antiviral/Anti picornaviridae/Anti rhinovirus,1.0,0.0,Therapeutic
+Anti rhabdoviridae,/Therapeutic/Antimicrobial/Antiviral/Anti rhabdoviridae,46.0,0.0,Therapeutic
+Anti rabies virus,/Therapeutic/Antimicrobial/Antiviral/Anti rhabdoviridae/Anti rabies virus,29.0,0.0,Therapeutic
+Anti vesicular stomatistic virus,/Therapeutic/Antimicrobial/Antiviral/Anti rhabdoviridae/Anti vesicular stomatistic virus,17.0,0.0,Therapeutic
+Anti papillomaviridae,/Therapeutic/Antimicrobial/Antiviral/Anti papillomaviridae,24.0,0.0,Therapeutic
+Anti human papiloma virus,/Therapeutic/Antimicrobial/Antiviral/Anti papillomaviridae/Anti human papiloma virus,24.0,0.0,Therapeutic
+Anti arteriviridae,/Therapeutic/Antimicrobial/Antiviral/Anti arteriviridae,16.0,0.0,Therapeutic
+Anti porcine reproductive and respiratory syndrome virus,/Therapeutic/Antimicrobial/Antiviral/Anti arteriviridae/Anti porcine reproductive and respiratory syndrome virus,16.0,0.0,Therapeutic
+Anti iridoviridae,/Therapeutic/Antimicrobial/Antiviral/Anti iridoviridae,10.0,0.0,Therapeutic
+Anti frog virus,/Therapeutic/Antimicrobial/Antiviral/Anti iridoviridae/Anti frog virus,8.0,0.0,Therapeutic
+Anti singapore grouper iridovirus,/Therapeutic/Antimicrobial/Antiviral/Anti iridoviridae/Anti singapore grouper iridovirus,2.0,0.0,Therapeutic
+Anti adenoviridae,/Therapeutic/Antimicrobial/Antiviral/Anti adenoviridae,6.0,0.0,Therapeutic
+Anti adenovirus,/Therapeutic/Antimicrobial/Antiviral/Anti adenoviridae/Anti adenovirus,6.0,0.0,Therapeutic
+Anti polyomaviridae,/Therapeutic/Antimicrobial/Antiviral/Anti polyomaviridae,5.0,0.0,Therapeutic
+Anti bk virus,/Therapeutic/Antimicrobial/Antiviral/Anti polyomaviridae/Anti bk virus,5.0,0.0,Therapeutic
+Anti arenaviridae,/Therapeutic/Antimicrobial/Antiviral/Anti arenaviridae,5.0,0.0,Therapeutic
+Anti pichinde virus,/Therapeutic/Antimicrobial/Antiviral/Anti arenaviridae/Anti pichinde virus,2.0,0.0,Therapeutic
+Anti junin virus,/Therapeutic/Antimicrobial/Antiviral/Anti arenaviridae/Anti junin virus,2.0,0.0,Therapeutic
+Anti lymphocytic choriomeningitis virus,/Therapeutic/Antimicrobial/Antiviral/Anti arenaviridae/Anti lymphocytic choriomeningitis virus,1.0,0.0,Therapeutic
+Anti tacaribe virus,/Therapeutic/Antimicrobial/Antiviral/Anti arenaviridae/Anti tacaribe virus,1.0,0.0,Therapeutic
+Anti parvoviridae,/Therapeutic/Antimicrobial/Antiviral/Anti parvoviridae,5.0,0.0,Therapeutic
+Anti minute virus of mice,/Therapeutic/Antimicrobial/Antiviral/Anti parvoviridae/Anti minute virus of mice,3.0,0.0,Therapeutic
+Anti mink enteritis virus,/Therapeutic/Antimicrobial/Antiviral/Anti parvoviridae/Anti mink enteritis virus,2.0,0.0,Therapeutic
+Anti orthoherpesviridae,/Therapeutic/Antimicrobial/Antiviral/Anti orthoherpesviridae,5.0,0.0,Therapeutic
+Anti kaposi's sarcoma-associated herpes virus,/Therapeutic/Antimicrobial/Antiviral/Anti orthoherpesviridae/Anti kaposi's sarcoma-associated herpes virus,3.0,0.0,Therapeutic
+Anti epstein-barr virus,/Therapeutic/Antimicrobial/Antiviral/Anti orthoherpesviridae/Anti epstein-barr virus,2.0,0.0,Therapeutic
+Anti nimaviridae,/Therapeutic/Antimicrobial/Antiviral/Anti nimaviridae,3.0,0.0,Therapeutic
+Anti white spot syndrome virus,/Therapeutic/Antimicrobial/Antiviral/Anti nimaviridae/Anti white spot syndrome virus,3.0,0.0,Therapeutic
+Anti reoviridae,/Therapeutic/Antimicrobial/Antiviral/Anti reoviridae,2.0,0.0,Therapeutic
+Anti simian rotavirus,/Therapeutic/Antimicrobial/Antiviral/Anti reoviridae/Anti simian rotavirus,1.0,0.0,Therapeutic
+Anti bovine rotavirus,/Therapeutic/Antimicrobial/Antiviral/Anti reoviridae/Anti bovine rotavirus,1.0,0.0,Therapeutic
+Anti alloherpesviridae,/Therapeutic/Antimicrobial/Antiviral/Anti alloherpesviridae,2.0,0.0,Therapeutic
+Anti channel catfish virus,/Therapeutic/Antimicrobial/Antiviral/Anti alloherpesviridae/Anti channel catfish virus,2.0,0.0,Therapeutic
+Anti nodaviridae,/Therapeutic/Antimicrobial/Antiviral/Anti nodaviridae,2.0,0.0,Therapeutic
+Anti nervous necrosis virus,/Therapeutic/Antimicrobial/Antiviral/Anti nodaviridae/Anti nervous necrosis virus,2.0,0.0,Therapeutic
+Anti asfarviridae,/Therapeutic/Antimicrobial/Antiviral/Anti asfarviridae,1.0,0.0,Therapeutic
+Anti african swine fever virus,/Therapeutic/Antimicrobial/Antiviral/Anti asfarviridae/Anti african swine fever virus,1.0,0.0,Therapeutic
+Anti togaviridae,/Therapeutic/Antimicrobial/Antiviral/Anti togaviridae,1.0,0.0,Therapeutic
+Anti chikungunya virus,/Therapeutic/Antimicrobial/Antiviral/Anti togaviridae/Anti chikungunya virus,1.0,0.0,Therapeutic
+Anti phenuiviridae,/Therapeutic/Antimicrobial/Antiviral/Anti phenuiviridae,1.0,0.0,Therapeutic
+Anti rift valley fever virus,/Therapeutic/Antimicrobial/Antiviral/Anti phenuiviridae/Anti rift valley fever virus,1.0,0.0,Therapeutic
+Anti sedoreoviridae,/Therapeutic/Antimicrobial/Antiviral/Anti sedoreoviridae,1.0,0.0,Therapeutic
+Anti grass carp hemorrhage virus,/Therapeutic/Antimicrobial/Antiviral/Anti sedoreoviridae/Anti grass carp hemorrhage virus,1.0,0.0,Therapeutic
+Anti caliciviridae,/Therapeutic/Antimicrobial/Antiviral/Anti caliciviridae,1.0,0.0,Therapeutic
+Anti murine norovirus,/Therapeutic/Antimicrobial/Antiviral/Anti caliciviridae/Anti murine norovirus,1.0,0.0,Therapeutic
+Anuran defense,/Therapeutic/Antimicrobial/Anuran defense,1806.0,432.0,Therapeutic
+Antiprotozoal,/Therapeutic/Antimicrobial/Antiprotozoal,165.0,0.0,Therapeutic
+Anti malarial,/Therapeutic/Antimicrobial/Antiprotozoal/Anti malarial,106.0,0.0,Therapeutic
+Anti protist,/Therapeutic/Antimicrobial/Antiprotozoal/Anti protist,42.0,0.0,Therapeutic
+Metabolic,/Therapeutic/Metabolic,13487.0,26284.0,Therapeutic
+Hormone,/Therapeutic/Metabolic/Hormone,9307.0,58303.0,Therapeutic
+Pheromone,/Therapeutic/Metabolic/Hormone/Pheromone,61.0,295.0,Therapeutic
+Regulatory,/Therapeutic/Metabolic/Regulatory,4070.0,1262644.0,Therapeutic
+Coagulation + vascular,/Therapeutic/Metabolic/Regulatory/Coagulation + vascular,2214.0,889418.0,Therapeutic
+Anti hypertensive,/Therapeutic/Metabolic/Regulatory/Coagulation + vascular/Anti hypertensive,1859.0,591432.0,Therapeutic
+Anti angiogenic,/Therapeutic/Metabolic/Regulatory/Coagulation + vascular/Anti angiogenic,280.0,62078.0,Therapeutic
+Venous,/Therapeutic/Metabolic/Regulatory/Coagulation + vascular/Anti angiogenic/Venous,68.0,623965.0,Therapeutic
+Anti thrombotic,/Therapeutic/Metabolic/Regulatory/Coagulation + vascular/Anti angiogenic/Venous/Anti thrombotic,68.0,47334.0,Therapeutic
+Anti hypotensive,/Therapeutic/Metabolic/Regulatory/Coagulation + vascular/Anti hypotensive,32.0,0.0,Therapeutic
+Glucose,/Therapeutic/Metabolic/Regulatory/Glucose,1514.0,10387.0,Therapeutic
+Anti diabetic,/Therapeutic/Metabolic/Regulatory/Glucose/Anti diabetic,1514.0,8550.0,Therapeutic
+Anti diabetic type 2,/Therapeutic/Metabolic/Regulatory/Glucose/Anti diabetic/Anti diabetic type 2,802.0,317140.0,Therapeutic
+Anti diabetic type 1,/Therapeutic/Metabolic/Regulatory/Glucose/Anti diabetic/Anti diabetic type 1,685.0,415596.0,Therapeutic
+Quorum sensing,/Therapeutic/Metabolic/Regulatory/Quorum sensing,354.0,1094.0,Therapeutic
+Pain related,/Therapeutic/Metabolic/Pain related,173.0,13818.0,Therapeutic
+Opioid,/Therapeutic/Metabolic/Pain related/Opioid,165.0,5673.0,Therapeutic
+Opioid-agonist,/Therapeutic/Metabolic/Pain related/Opioid/Opioid-agonist,14.0,0.0,Therapeutic
+Opioid-antagonist,/Therapeutic/Metabolic/Pain related/Opioid/Opioid-antagonist,9.0,0.0,Therapeutic
+Anticancer,/Therapeutic/Anticancer,9724.0,802815.0,Therapeutic
+Tumor homing,/Therapeutic/Anticancer/Tumor homing,369.0,121092.0,Therapeutic
+Tumor targeting,/Therapeutic/Anticancer/Tumor targeting,344.0,276795.0,Therapeutic
+Apoptosis induction,/Therapeutic/Anticancer/Apoptosis induction,1.0,0.0,Therapeutic
+Inhibitor,/Therapeutic/Inhibitor,3523.0,7675.0,Therapeutic
+Enzyme inhibitor,/Therapeutic/Inhibitor/Enzyme inhibitor,3324.0,143260.0,Therapeutic
+Angiotensinase inhibitor,/Therapeutic/Inhibitor/Enzyme inhibitor/Angiotensinase inhibitor,1876.0,1010271.0,Therapeutic
+Angiotensin-converting enzyme (ace) inhibitors,/Therapeutic/Inhibitor/Enzyme inhibitor/Angiotensinase inhibitor/Angiotensin-converting enzyme (ace) inhibitors,1871.0,10672.0,Therapeutic
+Protease inhibitor,/Therapeutic/Inhibitor/Enzyme inhibitor/Protease inhibitor,70.0,0.0,Therapeutic
+Amylase inhibitor,/Therapeutic/Inhibitor/Enzyme inhibitor/Amylase inhibitor,40.0,0.0,Therapeutic
+Anti oxidative,/Therapeutic/Anti oxidative,1117.0,1054844.0,Therapeutic
+Potentiator,/Therapeutic/Potentiator,222.0,73887.0,Therapeutic
+Activator,/Therapeutic/Activator,112.0,3414.0,Therapeutic
+Enzyme activator,/Therapeutic/Activator/Enzyme activator,62.0,1178.0,Therapeutic
+Stimulator,/Therapeutic/Stimulator,112.0,2232203.0,Therapeutic
+Surface immobilized,/Therapeutic/Surface immobilized,46.0,0.0,Therapeutic
+Sperm activating,/Therapeutic/Sperm activating,46.0,0.0,Therapeutic
+Spermicide,/Therapeutic/Spermicide,26.0,0.0,Therapeutic
+Anti toxin,/Therapeutic/Anti toxin,19.0,0.0,Therapeutic
+Anti allergen,/Therapeutic/Anti allergen,11.0,0.0,Therapeutic
+Antiatherosclerotic,/Therapeutic/Antiatherosclerotic,4.0,0.0,Therapeutic
+Antiosteoporosis,/Therapeutic/Antiosteoporosis,1.0,0.0,Therapeutic
+Signal peptide,/Signal peptide,22650.0,851175.0,Signal peptide
+Neuropeptide,/Signal peptide/Neuropeptide,10815.0,367496.0,Signal peptide
+Transit,/Signal peptide/Transit,7523.0,67235.0,Signal peptide
+Toxic,/Toxic,21906.0,112584.0,Toxic
+Anti mammalian cell,/Toxic/Anti mammalian cell,9494.0,0.0,Toxic
+Allergen,/Toxic/Allergen,2462.0,7393.0,Toxic
+Gluten immunogenic + celiac toxic,/Toxic/Allergen/Gluten immunogenic + celiac toxic,1240.0,83246.0,Toxic
+Cytotoxic,/Toxic/Cytotoxic,1511.0,87.0,Toxic
+Hemolytic,/Toxic/Cytotoxic/Hemolytic,1341.0,28.0,Toxic
+Neurotoxin,/Toxic/Neurotoxin,592.0,5892.0,Toxic
+Insecticidal,/Toxic/Insecticidal,336.0,36.0,Toxic
+Anti endotoxin,/Toxic/Anti endotoxin,95.0,35.0,Toxic
+Molluscicidal,/Toxic/Molluscicidal,6.0,0.0,Toxic
+Other,/Other,7406.0,0.0,Other
+Immunological,/Immunological,4528.0,1001216.0,Immunological
+Anti inflamatory,/Immunological/Anti inflamatory,3902.0,925447.0,Immunological
+Immunomodulatory,/Immunological/Immunomodulatory,433.0,712449.0,Immunological
+Immunoregulator,/Immunological/Immunoregulator,158.0,300929.0,Immunological
+Cell cell communication,/Cell cell communication,3343.0,6126.0,Cell cell communication
+Cytokine,/Cell cell communication/Cytokine,2548.0,9845.0,Cell cell communication
+Chemotactic,/Cell cell communication/Chemotactic,111.0,337.0,Cell cell communication
+Drug delivery vehicle,/Drug delivery vehicle,2585.0,17984.0,Drug delivery vehicle
+Cell penetrating,/Drug delivery vehicle/Cell penetrating,1338.0,1.0,Drug delivery vehicle
+Blood brain barrier penetrating,/Drug delivery vehicle/Blood brain barrier penetrating,561.0,485010.0,Drug delivery vehicle
+Propeptide,/Propeptide,1425.0,1215114.0,Propeptide
+Cosmetic and dermatology,/Cosmetic and dermatology,333.0,74956.0,Cosmetic and dermatology
+Anti aging,/Cosmetic and dermatology/Anti aging,282.0,66086.0,Cosmetic and dermatology
+Wound healing,/Cosmetic and dermatology/Wound healing,45.0,0.0,Cosmetic and dermatology
+Molecular binding,/Molecular binding,314.0,196.0,Molecular binding
+DNA-binding,/Molecular binding/DNA-binding,119.0,571.0,Molecular binding
+Ralf-binding,/Molecular binding/Ralf-binding,41.0,0.0,Molecular binding
+Protein-protein interaction,/Molecular binding/Protein-protein interaction,9.0,0.0,Molecular binding
+Taste,/Taste,192.0,97405.0,Taste
+Neurological,/Neurological,71.0,715027.0,Neurological
+Anti amnesic,/Neurological/Anti amnesic,65.0,35919.0,Neurological
