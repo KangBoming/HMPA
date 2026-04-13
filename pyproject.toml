@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hmpa-bioactivity"
+version = "0.1.0"
+description = "Training and inference workflows for peptide and microprotein bioactivity prediction in the Human Microprotein Atlas study."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "License to be specified by the authors before public release." }
+authors = [
+  { name = "HMPA authors" }
+]
+keywords = [
+  "microprotein",
+  "peptide",
+  "bioactivity",
+  "protein-language-model",
+  "esm2",
+  "deep-learning"
+]
+dependencies = [
+  "numpy",
+  "pandas",
+  "scikit-learn",
+  "torch",
+  "transformers"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest"
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
